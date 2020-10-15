@@ -1,2 +1,5 @@
-include ':app'
-rootProject.name = "DesignPatternsKotlinDemo"
+include ':DesignModle_factory'
+include ':DesignModle_singleton'
+include ':DesignModle_builder'
+include ':AppMain'
+rootProject.name = "DesignPatternsProject"
